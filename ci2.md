@@ -74,7 +74,7 @@ public Background() {
 </pre>
 
 4. Chạy chương trình
-![](images\ci2.png)
+![](images/ci2.png)
 
 * Kết quả nhận được là các gameobject đã được render thành 3 layer. 
 * Như trên hình: đạn của player đã không còn bị đè lên background của menu vì background của menu thuộc về topLayer
