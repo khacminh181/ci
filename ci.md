@@ -14,7 +14,7 @@ public class GameObject {
 
 
 2. Chạy chương trình.
-![](images\ci1.png)
+![](images/ci1.png)
 Chú ý:
 
 * Do hiện nay game vẫn đang render đúng 1 layer. Vì vậy mà đạn đã chèn hẳn lên cả phần menu game chứa score của người chơi.
